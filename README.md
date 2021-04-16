@@ -1,3 +1,4 @@
+![thumb-cover-rmr-rap-numero-magazine](https://user-images.githubusercontent.com/75929039/115025514-bce60500-9ec1-11eb-84d8-5766a5e0185c.jpg)
 - 👋 Hi, I’m @LOIC-only-one
 - 👀 I’m interested in programming, hacking !
 - French Programmer ;)
