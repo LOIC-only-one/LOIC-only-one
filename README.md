@@ -1,4 +1,4 @@
-![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
+![Cover](https://github.com/LOIC-only-one/LOIC-only-one/blob/main/600x200.jpg)
 - 👋 Hi, I’m @LOIC-only-one
 - 👀 I’m interested in programming, hacking !
 - French Programmer ;)
