@@ -2,7 +2,7 @@
 - 💥 I’m interested in programming, hacking !
 - 💥 French Programmer ;)
 
-<h3>I</h3>
+<h2><underline>I</underline>I=</h2>
 <!---
 LOIC-only-one/LOIC-only-one is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
