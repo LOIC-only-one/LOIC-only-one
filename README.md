@@ -7,9 +7,12 @@
 <h3>I dev in Python, HTML/CSS and a little bit in Golang and Javascript I currently learn PHP</h3>
 <h3>In ethical hacking I am what we call a noob</h3>
 
-- 👽 Stéganography   - 🌟 HTML/CSS/JavaScript/PHP
-- 👽 Web             - 🌟 Python
-- 👽 Networking      - 🌟 Golang
+- 👽 Stéganography   
+- 👽 Web             
+- 👽 Networking     
+- - 🌟 HTML/CSS/JavaScript/PHP
+- - 🌟 Python
+- - 🌟 Golang
 <!---
 LOIC-only-one/LOIC-only-one is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
