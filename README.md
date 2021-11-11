@@ -2,7 +2,7 @@
 
 - 💥 Hi, I’m @LOIC-only-one
 - 💥 I’m interested in programming, éthical hacking !
-- 💥 French Programmer, I'm 15 years old
+- 💥 French Programmer, I'm 16 years old
 
 <h3>I dev in Python, HTML/CSS and a little bit in Golang and Javascript I currently learn PHP</h3>
 <h3>In ethical hacking I am what we call a noob</h3>
