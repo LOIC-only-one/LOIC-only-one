@@ -1,22 +1,35 @@
-<h2><u>Hello I'm Loïc</u></h2>
+# Bonjour ! 🥖
 
-- 💥 Hi, I’m @LOIC-only-one
-- 💥 I’m interested in programming, éthical hacking !
+Je me présente je suis Loïc un jeune français de 17 ans,ILoveCyberSecurity && ILoveNewTech !
 
-<h3>I dev in Python, HTML/CSS and a little bit in Golang and Javascript I currently learn PHP</h3>
-<h3>In ethical hacking I am what we call a noob</h3>
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
+
+## 🛠  Technologies and tools what I use !
+
+<a name="j'apprends-ça"></a>
+
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" height="25" />][tech_tools_anchor]
+
+<a name="learning-next"></a>
+
+## 📖  What I am currently learning
 
 - 👽 Forensic  
 - 👽 Web             
 - 👽 Networking     
-- - 🌟 HTML/CSS/JavaScript/PHP
-- - 🌟 Python
+- - 🌟 PHP
 - - 🌟 Golang
 
-I currently learn new technologie (AD, Git)
-<!---
-LOIC-only-one/LOIC-only-one is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-![giphy (2)](https://user-images.githubusercontent.com/75929039/115109160-6dacdc80-9f74-11eb-82cc-31ac85798586.gif)
+[tech_tools_anchor]: #bonjour--
+[learning_now_anchor]: #learning-now
+[learning_next_anchor]: #learning-next
