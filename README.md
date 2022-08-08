@@ -1,6 +1,6 @@
 # Bonjour ! 🥖
 
-Je me présente je suis Loïc un jeune français de 17 ans,ILoveCyberSecurity && ILoveNewTech !
+Je me présente je suis Loïc un jeune français de 17 ans, ILoveCyberSecurity && ILoveNewTech !
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
