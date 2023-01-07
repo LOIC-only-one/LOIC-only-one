@@ -2,7 +2,8 @@
 
 Je me présente je suis Loïc un jeune français de 17 ans, ILoveCyberSecurity && ILoveNewTech !
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
+![unnamed_tpkn](https://user-images.githubusercontent.com/75929039/211171825-5c83e1f4-cc9e-4c44-8a0f-3cf8cac770a3.gif =250x250)
+
 
 ## 🛠  Technologies and tools what I use !
 
