@@ -2,7 +2,7 @@
 
 Je me présente je suis Loïc un jeune français de 17 ans, ILoveCyberSecurity && ILoveNewTech !
 
-![unnamed_tpkn](https://user-images.githubusercontent.com/75929039/211171825-5c83e1f4-cc9e-4c44-8a0f-3cf8cac770a3.gif =250x250)
+![unnamed_tpkn](https://user-images.githubusercontent.com/75929039/211171825-5c83e1f4-cc9e-4c44-8a0f-3cf8cac770a3.gif){:height="36px" width="36px"}
 
 
 ## 🛠  Technologies and tools what I use !
