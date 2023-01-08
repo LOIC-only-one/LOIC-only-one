@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm LOIC-only-One</h1>
 <h3 align="center">Je suis passionné de tech, de cybersécurité et de réseau !</h3>
 
-<center>![logo-transparent](https://user-images.githubusercontent.com/75929039/211193343-06784989-5ccb-4957-a64a-fd0517f07105.png)</center>
 
 - 🔭 Je travail Actuellement sur [WebSecurityEmpire](https://github.com/LOIC-only-one/WebSecurityEmpire)
 
@@ -15,7 +14,7 @@
 
 - ⚡ Fun fact, **je n'aime pas lire**
 
-[![LOIC-only-one's github stats](https://github-readme-stats.vercel.app/api?username=LOIC-only-one&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) [![LOIC-only-one's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LOIC-only-one&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![LOIC-only-one's github stats](https://github-readme-stats.vercel.app/api?username=LOIC-only-one&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) </br> [![LOIC-only-one's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LOIC-only-one&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
