@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm LOIC-only-One</h1>
 <h3 align="center">Je suis passionné de tech, de cybersécurité et de réseau !</h3>
 
+![logo-transparent](https://user-images.githubusercontent.com/75929039/211193343-06784989-5ccb-4957-a64a-fd0517f07105.png)
+
 - 🔭 Je travail Actuellement sur [WebSecurityEmpire](https://github.com/LOIC-only-one/WebSecurityEmpire)
 
 - 🌱 J'apprends actuellement les **types abstraits, MariaDB**
