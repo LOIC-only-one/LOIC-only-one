@@ -6,8 +6,6 @@
 
 - 🌱 J'apprends actuellement les **types abstraits, MariaDB**
 
-- 👨‍💻 Je possède un petit blog, [https://www.mrsize.go.yj.fr/](https://www.mrsize.go.yj.fr/)
-
 - 💬 Parle moi de **CyberSécurité, RaspberryPI**
 
 - 📫 Ou m'écrire, **Id00l#3624**
