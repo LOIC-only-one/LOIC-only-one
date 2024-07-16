@@ -4,9 +4,9 @@
 
 - 🔭 Je travail Actuellement sur [WebSecurityEmpire](https://github.com/LOIC-only-one/WebSecurityEmpire)
 
-- 🌱 J'apprends actuellement les **types abstraits, MariaDB**
+- 🌱 J'apprends actuellement les **Javascript & Golang**
 
-- 💬 Parle moi de **CyberSécurité, RaspberryPI**
+- 💬 Parle moi de **CyberSécurité, RaspberryPI, Cisco IOL**
 
 - 📫 Ou m'écrire, **Id00l#3624**
 
