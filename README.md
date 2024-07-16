@@ -8,7 +8,7 @@
 
 - 💬 Parle moi de **CyberSécurité, RaspberryPI, Cisco IOL**
 
-- 📫 Ou m'écrire, **Id00l#3624**
+- 📫 Ou m'écrire, **Id00l#3624** ou **loic.maurer@uha.fr**
 
 - ⚡ Fun fact, **je n'aime pas lire**
 
