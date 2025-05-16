@@ -14,7 +14,7 @@
 - 🌱 J'apprends actuellement **JavaScript** & **Golang**
 - 💬 Parle-moi de **CyberSécurité, RaspberryPI, Cisco IOL**
 - 📫 Contactez-moi à **loic-only-one@id00l.eu** ou **loic.maurer@uha.fr**
-- ⚡ Fun fact: **Je n'aime pas lire**
+- ⚡ Fun fact: **Je suis fan d'histoire**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LOIC-only-one&theme=blue-green" alt="LOIC-only-one's GitHub stats" />
