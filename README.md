@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌿 Loic Maurer
+# 🌿 Loïc Maurer
 
 <i>Développeur Python & JavaScript — passionné par la cybersécurité, les réseaux et la créativité logicielle.</i>  
 <i>Étudiant en BUT Réseaux & Télécoms à l’IUT de Colmar</i>
