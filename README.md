@@ -21,7 +21,7 @@
 
 ### 🚀 Ce que je fais en ce moment
 
-- Développement d’un système bancaire en microservices avec Django, Docker & NATS
+- Apprentissage de la stack Ansible, Vagrant, Jenkins
 - Création d’un outil d’audit automatique de configurations réseau Cisco
 - Exploration de la cybersécurité (TryHackMe, Root-Me, Vulnhub)
 
