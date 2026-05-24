@@ -2,7 +2,7 @@
 
 # Loïc Maurer
 
-**BUT R&T DevCloud · Alternant FM Logistic · Cybersécurité & Réseaux**
+**BUT R&T DevCloud · Alternant FM Logistic · Réseaux & Automatisation**
 
 ---
 
