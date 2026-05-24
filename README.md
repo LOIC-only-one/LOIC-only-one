@@ -49,6 +49,8 @@ Passionné par la **cybersécurité offensive** (CTF), les **homelabs** et la cr
 ![MikroTik](https://img.shields.io/badge/MikroTik_RouterOS-293239?style=flat-square&logo=mikrotik&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![HPE Aruba](https://img.shields.io/badge/HPE_Aruba-FF8300?style=flat-square&logo=hp&logoColor=white)
+![Forcepoint](https://img.shields.io/badge/Forcepoint-003057?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNCAxNCI+PHBvbHlnb24gcG9pbnRzPSI3LDAgMTMsMyAxMyw4IDcsMTQgMSw4IDEsMyIgZmlsbD0iJTIzMDBBM0UwIi8+PHBvbHlnb24gcG9pbnRzPSI3LDMgMTEsNSAxMSw4IDcsMTIgMyw4IDMsNSIgZmlsbD0iJTIzMDAzMDU3Ii8+PHBvbHlnb24gcG9pbnRzPSI3LDUgOS41LDYuNSA5LjUsOC41IDcsMTAgNC41LDguNSA0LjUsNi41IiBmaWxsPSIlMjMwMEEzRTAiLz48Y2lyY2xlIGN4PSI3IiBjeT0iNyIgcj0iMS41IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white)
 
 ---
 
