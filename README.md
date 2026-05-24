@@ -1,22 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:c8522a&height=160&section=header&text=Loïc%20Maurer&fontSize=46&fontColor=ffffff&fontAlignY=60&desc=BUT%20R%26T%20DevCloud%20%7C%20Réseau%20%26%20Cybersécurité%20%7C%20Alternant%20FM%20Logistic&descSize=15&descAlignY=78&descColor=dddddd&animation=fadeIn" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=c8522a&width=500&lines=Infrastructure+%26+Automatisation;CTF+%7C+TryHackMe+%7C+Root-Me+%7C;Django+%7C+FastAPI+%7C+Python+%7C+Ansible;Réseau+Cisco+%7C+MikroTik+%7C+SD-WAN)](https://git.io/typing-svg)
 
-<br/>
+# Loïc Maurer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=c8522a&width=500&lines=Infrastructure+%26+Automatisation;CTF+%7C+TryHackMe+%7C+Root-Me+%7C+ESNA+2026;Django+%7C+FastAPI+%7C+Python+%7C+Ansible;Réseau+Cisco+%7C+MikroTik+%7C+SD-WAN)](https://git.io/typing-svg)
+**BUT R&T DevCloud · Alternant FM Logistic · Cybersécurité & Réseaux**
 
 ---
 
-## 👋 À propos de moi
+## 👋 À propos
 
 Étudiant en **3ᵉ année de BUT Réseaux & Télécommunications** (parcours DevCloud) à l'IUT de Colmar.  
 En alternance chez **FM Logistic** — support N2/N3, infrastructure réseau, automatisation et migration SD-WAN.
 
-Passionné par la **cybersécurité offensive** (CTF), les **homelabs** et la création d'outils réseau.  
-Je construis des choses qui tiennent en prod.
+Passionné par la **cybersécurité offensive** (CTF), les **homelabs** et la création d'outils réseau.
 
-- 🎯 Objectif : **Master R&T — AMU Luminy, Aix-Marseille** (sept. 2026)
-- 🔐 CTF : TryHackMe · Root-Me · ESNA 2026 (pwn, forensics, crypto, réseau)
-- 🌐 Portfolio : [id00l.eu](http://id00l.eu)
+- 🎯 **Objectif** : Master R&T — Reims (sept. 2026)
+- 🔐 **CTF** : TryHackMe · Root-Me · pwn, forensics, crypto, réseau
+- 🌐 **Portfolio** : [id00l.eu](http://id00l.eu)
 - 📍 Alsace, France
 
 ---
@@ -61,8 +60,8 @@ current_focus = {
     "formation"  : "BUT R&T DevCloud — IUT de Colmar (3ᵉ année)",
     "projet"     : "Cast — newsletters → podcast (Django + TTS + REST API)",
     "homelab"    : "Rack MikroTik + VLANs + Raspberry Pi + serveurs recond.",
-    "ctf"        : "TryHackMe / Root-Me / ESNA 2026 — pwn, forensics, crypto",
-    "objectif"   : "Master R&T — AMU Luminy, Aix-Marseille (sept. 2026)",
+    "ctf"        : "TryHackMe / Root-Me / pwn, forensics, crypto",
+    "objectif"   : "Master R&T — Reims (sept. 2026)",
 }
 ```
 
@@ -102,14 +101,14 @@ current_focus = {
 <td width="50%" valign="top">
 
 ### 🎙️ Cast
-Convertit des newsletters en épisodes podcast audio générés automatiquement.  
+Convertit des newsletters en épisodes podcast audio.  
 `Django` · `Python` · `TTS` · `REST API`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🗓️ Calendrier e-ink
-Calendrier connecté sur Raspberry Pi Pico W + écran Waveshare 4.2".  
+Calendrier connecté Pico W + écran Waveshare 4.2".  
 `MicroPython` · `NTP` · `API REST` · `SPI`
 
 </td>
@@ -118,7 +117,7 @@ Calendrier connecté sur Raspberry Pi Pico W + écran Waveshare 4.2".
 <td width="50%" valign="top">
 
 ### 🔍 Audit réseau Cisco
-Outil d'audit automatique de configurations réseau Cisco.  
+Audit automatique de configurations réseau Cisco.  
 `Python` · `Ansible` · `Cisco IOL`
 
 </td>
@@ -157,11 +156,9 @@ Infrastructure maison : VLANs, MikroTik, RPi, serveurs.
 
 ## 🔗 Me retrouver
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-id00l.eu-c8522a?style=flat-square)](http://id00l.eu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-id00l.eu-c8522a?style=flat-square&logo=firefoxbrowser&logoColor=white)](http://id00l.eu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Loïc_Maurer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lo%C3%AFc-maurer-874135261)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8522a,100:0f0f0f&height=100&section=footer" width="100%"/>
-
-<sub><i>« La créativité, c'est l'intelligence qui s'amuse. » — Albert Einstein</i></sub>
+> *« La créativité, c'est l'intelligence qui s'amuse. »* — Albert Einstein
