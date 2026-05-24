@@ -141,16 +141,6 @@ Infrastructure maison : VLANs, MikroTik, RPi, serveurs.
 
 <table>
 <tr>
-<td>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=LOIC-only-one&show_icons=true&theme=transparent&hide_border=true&title_color=c8522a&icon_color=c8522a&text_color=888888&include_all_commits=true&count_private=true)
-
-</td>
-<td>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOIC-only-one&layout=compact&theme=transparent&hide_border=true&title_color=c8522a&text_color=888888&langs_count=6)
-
-</td>
 </tr>
 </table>
 
