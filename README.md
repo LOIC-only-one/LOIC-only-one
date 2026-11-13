@@ -2,21 +2,20 @@
 
 # Loïc Maurer
 
-**BUT R&T DevCloud · Alternant FM Logistic · Réseaux & Automatisation**
+**Master Informatique · Réseaux, automatisation & DevOps · Administrateur réseau chez FM Logistic**
 
 ---
 
 ## 👋 À propos
 
-Étudiant en **3ᵉ année de BUT Réseaux & Télécommunications** (parcours DevCloud) à l'IUT de Colmar.  
-En alternance chez **FM Logistic** — support N2/N3, infrastructure réseau, automatisation et migration SD-WAN.
+Étudiant en **Master Informatique** à l'Université de Reims Champagne-Ardenne, après un **BUT Réseaux & Télécommunications** (parcours DevCloud) à l'IUT de Colmar.  
+Administrateur réseau **WAN/LAN & automatisation** chez **FM Logistic** : support N2/N3, SD-WAN, automatisation Ansible/Python.
 
-Passionné par la **cybersécurité offensive** (CTF), les **homelabs** et la création d'outils réseau.
+J'aime construire les outils dont j'ai besoin au quotidien : shells réseau, scanners, pipelines de déploiement. Le reste du temps : CTF et homelab.
 
-- 🎯 **Objectif** : Master R&T — Reims (sept. 2026)
 - 🔐 **CTF** : TryHackMe · Root-Me · pwn, forensics, crypto, réseau
-- 🌐 **Portfolio** : [id00l.eu](http://id00l.eu)
-- 📍 Alsace, France
+- 🌐 **Portfolio** : [id00l.eu](https://id00l.eu)
+- 📍 Grand Est, France
 
 ---
 
@@ -56,21 +55,6 @@ Passionné par la **cybersécurité offensive** (CTF), les **homelabs** et la cr
 
 ---
 
-## 🚀 En ce moment
-
-```python
-current_focus = {
-    "alternance" : "FM Logistic — N2/N3, SD-WAN Forcepoint, migration Netscope",
-    "formation"  : "BUT R&T DevCloud — IUT de Colmar (3ᵉ année)",
-    "projet"     : "Cast — newsletters → podcast (Django + TTS + REST API)",
-    "homelab"    : "Rack MikroTik + VLANs + Raspberry Pi + serveurs recond.",
-    "ctf"        : "TryHackMe / Root-Me / pwn, forensics, crypto",
-    "objectif"   : "Master R&T — Reims (sept. 2026)",
-}
-```
-
----
-
 ## 🔐 Cybersécurité & CTF
 
 | Catégorie | Compétences |
@@ -100,36 +84,68 @@ current_focus = {
 
 ## 🧪 Projets
 
+```mermaid
+flowchart LR
+    subgraph R["Réseau"]
+        MS[MultiSwitch<br/>shell multi-switches]
+        GO[gonc<br/>testeur de ports Go]
+        MK[MikroTik VLAN<br/>segmentation]
+    end
+    subgraph D["DevOps & Cloud"]
+        K3[SAE6 K3s AutoDeploy<br/>Terraform · Ansible · K3s]
+        VT[Vidéothèque<br/>microservices · Swarm]
+    end
+    subgraph S["Sécurité"]
+        SC[Docker CVE scanner<br/>Trivy → Zabbix]
+    end
+```
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ Cast
-Convertit des newsletters en épisodes podcast audio.  
-`Django` · `Python` · `TTS` · `REST API`
+### 🖧 [MultiSwitch](https://github.com/LOIC-only-one/MultiSwitch)
+Shell Python qui pilote plusieurs switches en parallèle (SSH Netmiko), avec provisioning Aruba depuis un profil JSON et un lab Docker pour tester sans matériel.  
+`Python` · `Netmiko` · `Rich` · `Aruba`
 
 </td>
 <td width="50%" valign="top">
 
-### 🗓️ Calendrier e-ink
-Calendrier connecté Pico W + écran Waveshare 4.2".  
-`MicroPython` · `NTP` · `API REST` · `SPI`
+### ☸️ [SAE6 · K3s AutoDeploy](https://github.com/LOIC-only-one/SAE6-K3s-AutoDeploy)
+Proxmox → Terraform → Ansible → GitLab + K3s : CI/CD sur trois environnements, Prometheus/Grafana, Velero et Chaos Mesh.  
+`Terraform` · `Ansible` · `K3s` · `GitLab CI`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 Audit réseau Cisco
-Audit automatique de configurations réseau Cisco.  
-`Python` · `Ansible` · `Cisco IOL`
+### 🎬 [Vidéothèque microservices](https://github.com/LOIC-only-one/projet-m705-serveur)
+Trois API Flask (auth JWT RS256, utilisateurs, catalogue), MongoDB, Caddy, déploiement Docker Swarm via GitHub Actions → GHCR. [Front-end](https://github.com/LOIC-only-one/projet-m705-client).  
+`APIFlask` · `MongoDB` · `JWT` · `Swarm`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏠 Homelab rack
-Infrastructure maison : VLANs, MikroTik, RPi, serveurs.  
-`MikroTik` · `Docker` · `Linux` · `Fusion 360`
+### 🛡️ [Docker CVE → Zabbix](https://github.com/LOIC-only-one/Script-Image-Scanner-Docker-zabbix)
+Scanne toutes les images en service avec Trivy et remonte les vulnérabilités par sévérité dans Zabbix, avec alertes.  
+`Python` · `Trivy` · `Zabbix` · `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔌 [gonc](https://github.com/LOIC-only-one/gonc)
+Testeur de ports TCP/UDP en Go, parallèle, avec mode écoute pour valider un flux à travers un pare-feu.  
+`Go` · `TCP/UDP`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [MikroTik VLAN](https://github.com/LOIC-only-one/Mikrotik-default-lan)
+Configuration RouterOS : bridge VLAN-aware, trois réseaux isolés, DHCP par VLAN.  
+`RouterOS` · `802.1Q` · `DHCP`
 
 </td>
 </tr>
@@ -137,12 +153,7 @@ Infrastructure maison : VLANs, MikroTik, RPi, serveurs.
 
 ---
 
-## 📊 Stats GitHub
-
-<table>
-<tr>
-</tr>
-</table>
+## 📊 Activité
 
 ![Streak](https://streak-stats.demolab.com?user=LOIC-only-one&theme=transparent&hide_border=true&ring=c8522a&fire=c8522a&currStreakLabel=c8522a&sideLabels=888888&dates=888888)
 
@@ -150,7 +161,7 @@ Infrastructure maison : VLANs, MikroTik, RPi, serveurs.
 
 ## 🔗 Me retrouver
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-id00l.eu-c8522a?style=flat-square&logo=firefoxbrowser&logoColor=white)](http://id00l.eu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-id00l.eu-c8522a?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://id00l.eu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Loïc_Maurer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lo%C3%AFc-maurer-874135261)
 
 ---
