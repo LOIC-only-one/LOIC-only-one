@@ -88,8 +88,8 @@ J'aime construire les outils dont j'ai besoin au quotidien : shells réseau, sca
 <tr>
 <td width="50%" valign="top">
 
-### 🖧 [MultiSwitch](https://github.com/LOIC-only-one/MultiSwitch)
-Shell Python qui pilote plusieurs switches en parallèle (SSH Netmiko), avec provisioning Aruba depuis un profil JSON et un lab Docker pour tester sans matériel.  
+### 🖧 [MultiSwitch](https://github.com/LOIC-only-one/MultiSwitch) · v1
+Prototype de shell Python qui pilote plusieurs switches en parallèle (SSH Netmiko), avec provisioning Aruba depuis un profil JSON et un lab Docker pour tester sans matériel.  
 `Python` · `Netmiko` · `Rich` · `Aruba`
 
 </td>
