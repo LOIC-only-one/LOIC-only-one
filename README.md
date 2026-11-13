@@ -84,22 +84,6 @@ J'aime construire les outils dont j'ai besoin au quotidien : shells réseau, sca
 
 ## 🧪 Projets
 
-```mermaid
-flowchart LR
-    subgraph R["Réseau"]
-        MS[MultiSwitch<br/>shell multi-switches]
-        GO[gonc<br/>testeur de ports Go]
-        MK[MikroTik VLAN<br/>segmentation]
-    end
-    subgraph D["DevOps & Cloud"]
-        K3[SAE6 K3s AutoDeploy<br/>Terraform · Ansible · K3s]
-        VT[Vidéothèque<br/>microservices · Swarm]
-    end
-    subgraph S["Sécurité"]
-        SC[Docker CVE scanner<br/>Trivy → Zabbix]
-    end
-```
-
 <table>
 <tr>
 <td width="50%" valign="top">
